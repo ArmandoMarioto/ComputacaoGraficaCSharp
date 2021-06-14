@@ -1,0 +1,56 @@
+D:\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+D:\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+D:\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojResolveAssemblyReference.cache
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.Cache
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+D:\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojResolveAssemblyReference.cache
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+F:\Carlos\Faculdade\6º termo\Computação gráfica\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+C:\Users\Aluno\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojResolveAssemblyReference.cache
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.Cache
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+C:\Users\adria\Downloads\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojAssemblyReference.cache
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+C:\Users\carlo\Downloads\CG trabs\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe.config
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.exe
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\bin\Debug\TrabalhoLinhas.pdb
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csprojAssemblyReference.cache
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Form1.resources
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.Properties.Resources.resources
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.GenerateResource.cache
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.exe
+C:\Users\Armando\Downloads\TrabalhoLinhas\TrabalhoLinhas\TrabalhoLinhas\obj\Debug\TrabalhoLinhas.pdb
